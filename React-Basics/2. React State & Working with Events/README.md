@@ -1,4 +1,4 @@
-# React Basics & Working with Components
+# React State & Working with Events
 
 ## What you should know:
 	- props & state
